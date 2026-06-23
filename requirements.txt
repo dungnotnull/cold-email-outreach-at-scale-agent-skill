@@ -1,0 +1,6 @@
+# Production dependencies for cold-email-outreach-at-scale tooling
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# Test dependencies
+pytest>=8.0.0
